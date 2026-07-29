@@ -29,7 +29,7 @@ Signatories: Authorised representative of Platinum High Integrity Technologies L
 ### 2.1 Lead JV Partner — Platinum High Integrity Technologies Limited (Malta), with Abatis Security Innovations & Technologies GmbH (Switzerland)
 
 - **Abatis Security Innovations & Technologies GmbH** was incorporated in Switzerland in **October 2004**. Its founding engagement was at the request of the **Swiss government**: technology designed for national critical-infrastructure protection and implemented by the **Swiss military**.
-- Over 20+ years of operation there has been **no reported breach against the Abatis code and no CVE (Common Vulnerabilities and Exposures) registered against it** — a record we believe is unique in the security industry.
+- Over 20+ years of operation there has been **no reported breach against the Abatis code and no publicly registered security vulnerability recorded against it** — a record we believe is unique in the security industry.
 - The Abatis approach is **deterministic and rule-enforcing**: attacks are stopped before they start, in nanoseconds — against an industry mean time to identify and contain a breach of ~270 days at an average cost of USD 4.5M (IBM, global).
 - The group's current portfolio spans **critical national infrastructure, smart-city OT programmes in the Gulf** (e.g., major smart-city and metro OT cybersecurity programmes), **energy-sector engagements** (including a current engagement with a Gulf national energy company), government projects in **Africa and Latin America**, and OEM security integration at device-manufacturing point.
 - Consultancy and advisory work (governance, risk, maturity assessment, regulatory support) represents a substantial share of the group's business alongside technology licensing.
@@ -125,7 +125,7 @@ All training materials are handed over for PUCSL's continued use.
 ## 7. Added Value
 
 - **Regulatory foresight:** the JV can support PUCSL and the Government of Sri Lanka beyond this assignment in drafting/updating national cyber and CNI legislation, drawing on EU regulatory experience (incl. cyber-sovereignty regimes) and Gulf implementations (e.g., Saudi NCA-style regimes).
-- **Practical protective capability:** uniquely among consultancies, the technical partner also builds protective technology with a 20-year zero-breach, zero-CVE record — assessment recommendations are grounded in what demonstrably works in live CNI environments.
+- **Practical protective capability:** uniquely among consultancies, the technical partner also builds protective technology with a 20-year record of zero breaches and zero registered vulnerabilities — assessment recommendations are grounded in what demonstrably works in live CNI environments.
 - **Long-term local presence:** EML provides continuity for follow-up audits, re-assessments and capacity building.
 
 ---
