@@ -134,11 +134,11 @@ All training materials are handed over for PUCSL's continued use.
 
 16-week programme (detail in workbook "Work Plan" and "Staffing & Rates" sheets):
 
-- **Abatis: 120 man-days** — Team Leader (30), Senior OT/ICS Specialist (60), Governance Specialist (20), IEC 62443/C2M2 Specialist (5), Training Specialist (5).
-- **EML: 145 man-days** — DPM Power Systems/SCADA Engineer (50), Electrical Engineer (25), Stakeholder Engagement (15), QA/QC (10), Report Coordinator (15), Project Administrator (30).
+- **Abatis: 200 man-days** — Team Leader (60), Senior OT/ICS Specialist (60), Governance Specialist (40), IEC 62443/C2M2 Specialist (20), Training Specialist (20).
+- **EML: 220 man-days** — DPM Power Systems/SCADA Engineer (100), Electrical Engineer (50), Stakeholder Engagement (15), QA/QC (10), Report Coordinator (15), Project Administrator (30).
 - 2 international missions; 20 site-days in Sri Lanka; 4 workshops.
 
-**Financial summary (internal):** Base USD 162,350 + 15% profit = **USD 192,790.63 excl. taxes**; with VAT 18% + SSCL 2.5% = **USD 233,180.26**. `[Currency and tax treatment for the financial forms — TBC]`
+**Financial summary (internal, per workbook revision 29 Jul 2026):** Base USD 267,425.00 + profit USD 80,227.50 = **USD 347,652.50 excl. taxes**; + SSCL USD 6,953.05 = **Grand Total USD 354,605.55**. VAT line blank in workbook — `[VAT applicability, currency and tax treatment for the financial forms — TBC]`
 
 ---
 
